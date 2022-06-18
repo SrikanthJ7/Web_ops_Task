@@ -1,0 +1,144 @@
+.search-bar{
+    margin-left: 470px;
+    margin-top: 15px;
+    height: 30px;
+    width: 220px;
+    padding-left: 15px;
+    border: solid;
+    border-color: lightgray;
+    transition: box-shadow 0.15s;
+ }
+
+ .title{
+     margin-left: 20px;
+ }
+
+ .home{
+     margin-left: 390px;
+ }
+
+ .about{
+     margin-left: 20px;
+ }
+
+ .contact{
+     margin-left: 20px;
+ }
+
+ hr{
+     margin-top: 15px;
+ }
+
+ .heading{
+     font-size: 2em;
+     font-weight: bold;
+     margin-left: 550px;
+ }
+
+ .coloured-heading{
+     color: #387aca;
+     font-size: 2em;
+     font-weight: bold;
+     margin-left: 3px;
+ }
+ 
+ .line{
+     margin-bottom: 50px;
+ }
+
+ .para{
+     text-align: center;
+     color: #9b7a7a;
+ }
+
+ button{
+     border-radius: 5px;
+     height: 40px;
+     width: 100px;
+     margin-top: 20px;
+ }
+
+ .button-1{
+     margin-left: 665px;
+     background-color: #2772e3;
+     color: white;
+     cursor: pointer;
+     transition: opacity 0.15s;
+ }
+
+ .button-2{
+    background-color: white;
+    color: #2772e3;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    transition: opacity 0.15s;
+ }
+
+ iframe{
+     margin-left: 150px;
+     display: inline-block;
+ }
+
+ table {
+     font-family: arial, sans-serif;
+     border-collapse: collapse;
+     width: 20%;
+ }
+
+ td, th {
+     border: 1px solid #dddddd;
+     text-align: left;
+     padding: 8px;
+ }
+
+ .division{
+     margin-left: 100px;
+     margin-top: 50px;
+     display: inline-block;
+ }
+
+ img{
+     margin-left: 75px;
+     transition: box-shadow 0.15s;
+ }
+
+ .links{
+     margin-left: 650px;
+ }
+
+ span{
+     color: black;
+     font-weight: bolder;
+ }
+
+ .button-1:hover{
+     opacity: 0.8;
+ }
+
+ .button-1:active{
+     opacity: 0.5
+ }
+
+ .button-2:hover{
+     box-shadow: 5px 5px 10px rgba(0, 0, 0, 00.15);
+ }
+
+ .button-2:active{
+     opacity: 0.5;
+ }
+
+ .link{
+     transition: color 0.15s;
+ }
+
+ .link:hover{
+     color: black;
+ }
+
+ img:hover{
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 00.15);
+ }
+
+ .search-bar:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 00.15);
+ }
